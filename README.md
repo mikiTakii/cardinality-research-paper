@@ -11,4 +11,4 @@ This paper explores fundamental and advanced concepts in set theory, including:
 - LaTeX
 
 # pdf
-[download pdf] (./Kardinalnosti__Milana_Tasovac.pdf)
+[download pdf](./Kardinalnosti__Milana_Tasovac.pdf)
