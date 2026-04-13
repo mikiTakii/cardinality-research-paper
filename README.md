@@ -1,2 +1,12 @@
-# cardinality-research-paper
-Research paper in set theory exploring cardinality, countable and uncountable sets, and following theorems (written in LaTeX).
+# Cardinality in Set Theory
+
+This repository contains my high school final research paper written in LaTeX.
+
+This paper explores fundamental and advanced concepts in set theory, including:
+- Cardinality of sets
+- Countable and uncountable sets
+- Equivalence of sets
+
+# Tools
+- LaTeX
+
